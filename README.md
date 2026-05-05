@@ -28,7 +28,7 @@ A network-based Intrusion Detection System (NIDS) built using **Suricata** on Ub
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/CodeAlpha_NetworkIDS.git
+git clone https://github.com/Rokzcy/CodeAlpha_NetworkIDS.git
 cd CodeAlpha_NetworkIDS
 ```
 
